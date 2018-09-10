@@ -1,0 +1,346 @@
+{"nombre":"Arica","nombreProvincia":"Arica","region":"XV"}
+{"nombre":"Camarones","nombreProvincia":"Arica","region":"XV"}
+{"nombre":"Putre","nombreProvincia":"Parinacota","region":"XV"}
+{"nombre":"General Lagos","nombreProvincia":"Parinacota","region":"XV"}
+{"nombre":"Iquique","nombreProvincia":"Iquique","region":"I"}
+{"nombre":"Alto Hospicio","nombreProvincia":"Iquique","region":"I"}
+{"nombre":"Pozo Almonte","nombreProvincia":"Tamarugal","region":"I"}
+{"nombre":"Camiña","nombreProvincia":"Tamarugal","region":"I"}
+{"nombre":"Colchane","nombreProvincia":"Tamarugal","region":"I"}
+{"nombre":"Huara","nombreProvincia":"Tamarugal","region":"I"}
+{"nombre":"Pica","nombreProvincia":"Tamarugal","region":"I"}
+{"nombre":"Antofagasta","nombreProvincia":"Antofagasta","region":"II"}
+{"nombre":"Mejillones","nombreProvincia":"Antofagasta","region":"II"}
+{"nombre":"Sierra Gorda","nombreProvincia":"Antofagasta","region":"II"}
+{"nombre":"Taltal","nombreProvincia":"Antofagasta","region":"II"}
+{"nombre":"Calama","nombreProvincia":"El Loa","region":"II"}
+{"nombre":"Ollagüe","nombreProvincia":"El Loa","region":"II"}
+{"nombre":"San Pedro de Atacama","nombreProvincia":"El Loa","region":"II"}
+{"nombre":"Tocopilla","nombreProvincia":"Tocopilla","region":"II"}
+{"nombre":"María Elena","nombreProvincia":"Tocopilla","region":"II"}
+{"nombre":"Copiapó","nombreProvincia":"Copiapó","region":"III"}
+{"nombre":"Caldera","nombreProvincia":"Copiapó","region":"III"}
+{"nombre":"Tierra Amarilla","nombreProvincia":"Copiapó","region":"III"}
+{"nombre":"Chañaral","nombreProvincia":"Chañaral","region":"III"}
+{"nombre":"Diego de Almagro","nombreProvincia":"Chañaral","region":"III"}
+{"nombre":"Vallenar","nombreProvincia":"Huasco","region":"III"}
+{"nombre":"Alto del Carmen","nombreProvincia":"Huasco","region":"III"}
+{"nombre":"Freirina","nombreProvincia":"Huasco","region":"III"}
+{"nombre":"Huasco","nombreProvincia":"Huasco","region":"III"}
+{"nombre":"La Serena","nombreProvincia":"Elqui","region":"IV"}
+{"nombre":"Coquimbo","nombreProvincia":"Elqui","region":"IV"}
+{"nombre":"Andacollo","nombreProvincia":"Elqui","region":"IV"}
+{"nombre":"La Higuera","nombreProvincia":"Elqui","region":"IV"}
+{"nombre":"Paiguano","nombreProvincia":"Elqui","region":"IV"}
+{"nombre":"Vicuña","nombreProvincia":"Elqui","region":"IV"}
+{"nombre":"Illapel","nombreProvincia":"Choapa","region":"IV"}
+{"nombre":"Canela","nombreProvincia":"Choapa","region":"IV"}
+{"nombre":"Los Vilos","nombreProvincia":"Choapa","region":"IV"}
+{"nombre":"Salamanca","nombreProvincia":"Choapa","region":"IV"}
+{"nombre":"Ovalle","nombreProvincia":"Limarí","region":"IV"}
+{"nombre":"Combarbalá","nombreProvincia":"Limarí","region":"IV"}
+{"nombre":"Monte Patria","nombreProvincia":"Limarí","region":"IV"}
+{"nombre":"Punitaqui","nombreProvincia":"Limarí","region":"IV"}
+{"nombre":"Río Hurtado","nombreProvincia":"Limarí","region":"IV"}
+{"nombre":"Valparaíso","nombreProvincia":"Valparaíso","region":"V"}
+{"nombre":"Casablanca","nombreProvincia":"Valparaíso","region":"V"}
+{"nombre":"Concón","nombreProvincia":"Valparaíso","region":"V"}
+{"nombre":"Juan Fernández","nombreProvincia":"Valparaíso","region":"V"}
+{"nombre":"Puchuncaví","nombreProvincia":"Valparaíso","region":"V"}
+{"nombre":"Quintero","nombreProvincia":"Valparaíso","region":"V"}
+{"nombre":"Viña del Mar","nombreProvincia":"Valparaíso","region":"V"}
+{"nombre":"Isla de Pascua","nombreProvincia":"Isla de Pascua","region":"V"}
+{"nombre":"Los Andes","nombreProvincia":"Los Andes","region":"V"}
+{"nombre":"Calle Larga","nombreProvincia":"Los Andes","region":"V"}
+{"nombre":"Rinconada","nombreProvincia":"Los Andes","region":"V"}
+{"nombre":"San Esteban","nombreProvincia":"Los Andes","region":"V"}
+{"nombre":"Petorca","nombreProvincia":"Petorca","region":"V"}
+{"nombre":"La Ligua","nombreProvincia":"Petorca","region":"V"}
+{"nombre":"Cabildo","nombreProvincia":"Petorca","region":"V"}
+{"nombre":"Papudo","nombreProvincia":"Petorca","region":"V"}
+{"nombre":"Zapallar","nombreProvincia":"Petorca","region":"V"}
+{"nombre":"Quillota","nombreProvincia":"Quillota","region":"V"}
+{"nombre":"Calera","nombreProvincia":"Quillota","region":"V"}
+{"nombre":"Hijuelas","nombreProvincia":"Quillota","region":"V"}
+{"nombre":"La Cruz","nombreProvincia":"Quillota","region":"V"}
+{"nombre":"Nogales","nombreProvincia":"Quillota","region":"V"}
+{"nombre":"San Antonio","nombreProvincia":"San Antonio","region":"V"}
+{"nombre":"Algarrobo","nombreProvincia":"San Antonio","region":"V"}
+{"nombre":"Cartagena","nombreProvincia":"San Antonio","region":"V"}
+{"nombre":"El Quisco","nombreProvincia":"San Antonio","region":"V"}
+{"nombre":"El Tabo","nombreProvincia":"San Antonio","region":"V"}
+{"nombre":"Santo Domingo","nombreProvincia":"San Antonio","region":"V"}
+{"nombre":"San Felipe","nombreProvincia":"San Felipe de Aconcagua","region":"V"}
+{"nombre":"Catemu","nombreProvincia":"San Felipe de Aconcagua","region":"V"}
+{"nombre":"Llaillay","nombreProvincia":"San Felipe de Aconcagua","region":"V"}
+{"nombre":"Panquehue","nombreProvincia":"San Felipe de Aconcagua","region":"V"}
+{"nombre":"Putaendo","nombreProvincia":"San Felipe de Aconcagua","region":"V"}
+{"nombre":"Santa María","nombreProvincia":"San Felipe de Aconcagua","region":"V"}
+{"nombre":"Quilpué","nombreProvincia":"Marga Marga","region":"V"}
+{"nombre":"Limache","nombreProvincia":"Marga Marga","region":"V"}
+{"nombre":"Olmué","nombreProvincia":"Marga Marga","region":"V"}
+{"nombre":"Villa Alemana","nombreProvincia":"Marga Marga","region":"V"}
+{"nombre":"Rancagua","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Codegua","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Coinco","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Coltauco","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Doñihue","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Graneros","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Las Cabras","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Machalí","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Malloa","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Mostazal","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Olivar","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Peumo","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Pichidegua","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Quintade Tilcoco","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Rengo","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Requínoa","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"San Vicente","nombreProvincia":"Cachapoal","region":"VI"}
+{"nombre":"Pichilemu","nombreProvincia":"Cardenal Caro","region":"VI"}
+{"nombre":"La Estrella","nombreProvincia":"Cardenal Caro","region":"VI"}
+{"nombre":"Litueche","nombreProvincia":"Cardenal Caro","region":"VI"}
+{"nombre":"Marichihue","nombreProvincia":"Cardenal Caro","region":"VI"}
+{"nombre":"Navidad","nombreProvincia":"Cardenal Caro","region":"VI"}
+{"nombre":"Paredones","nombreProvincia":"Cardenal Caro","region":"VI"}
+{"nombre":"San Fernando","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Chépica","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Chimbarongo","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Lolol","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Nancagua","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Palmilla","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Peralillo","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Placilla","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Pumanque","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Santa Cruz","nombreProvincia":"Colchagua","region":"VI"}
+{"nombre":"Talca","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"Constitución","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"Curepto","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"Empedrado","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"Maule","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"Pelarco","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"Pencahue","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"Río Claro","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"San Clemente","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"San Rafael","nombreProvincia":"Talca","region":"VII"}
+{"nombre":"Cauquenes","nombreProvincia":"Cauquenes","region":"VII"}
+{"nombre":"Chanco","nombreProvincia":"Cauquenes","region":"VII"}
+{"nombre":"Pelluhue","nombreProvincia":"Cauquenes","region":"VII"}
+{"nombre":"Curicó","nombreProvincia":"Curicó","region":"VII"}
+{"nombre":"Hualañé","nombreProvincia":"Curicó","region":"VII"}
+{"nombre":"Licantén","nombreProvincia":"Curicó","region":"VII"}
+{"nombre":"Molina","nombreProvincia":"Curicó","region":"VII"}
+{"nombre":"Rauco","nombreProvincia":"Curicó","region":"VII"}
+{"nombre":"Romeral","nombreProvincia":"Curicó","region":"VII"}
+{"nombre":"Sagrada Familia","nombreProvincia":"Curicó","region":"VII"}
+{"nombre":"Teno","nombreProvincia":"Curicó","region":"VII"}
+{"nombre":"Vichuquén","nombreProvincia":"Curicó","region":"VII"}
+{"nombre":"Linares","nombreProvincia":"Linares","region":"VII"}
+{"nombre":"Colbún","nombreProvincia":"Linares","region":"VII"}
+{"nombre":"Longaví","nombreProvincia":"Linares","region":"VII"}
+{"nombre":"Parral","nombreProvincia":"Linares","region":"VII"}
+{"nombre":"Retiro","nombreProvincia":"Linares","region":"VII"}
+{"nombre":"San Javier","nombreProvincia":"Linares","region":"VII"}
+{"nombre":"Villa Alegre","nombreProvincia":"Linares","region":"VII"}
+{"nombre":"Yerbas Buenas","nombreProvincia":"Linares","region":"VII"}
+{"nombre":"Concepción","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Coronel","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Chiguayante","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Florida","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Hualqui","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Lota","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Penco","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"San Pedro de la Paz","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Santa Juana","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Talcahuano","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Tomé","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Hualpén","nombreProvincia":"Concepción","region":"VIII"}
+{"nombre":"Arauco","nombreProvincia":"Arauco","region":"VIII"}
+{"nombre":"Lebu","nombreProvincia":"Arauco","region":"VIII"}
+{"nombre":"Cañete","nombreProvincia":"Arauco","region":"VIII"}
+{"nombre":"Contulmo","nombreProvincia":"Arauco","region":"VIII"}
+{"nombre":"Curanilahue","nombreProvincia":"Arauco","region":"VIII"}
+{"nombre":"Los Álamos","nombreProvincia":"Arauco","region":"VIII"}
+{"nombre":"Tirúa","nombreProvincia":"Arauco","region":"VIII"}
+{"nombre":"Los Ángeles","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Antuco","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Cabrero","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Laja","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Mulchén","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Nacimiento","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Negrete","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Quilaco","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Quilleco","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"San Rosendo","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Santa Bárbara","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Tucapel","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Yumbel","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Alto Biobío","nombreProvincia":"Biobío","region":"VIII"}
+{"nombre":"Chillán","nombreProvincia":"Diguillín","region":"XVI"}
+{"nombre":"Bulnes","nombreProvincia":"Diguillín","region":"XVI"}
+{"nombre":"Cobquecura","nombreProvincia":"Itata","region":"XVI"}
+{"nombre":"Coelemu","nombreProvincia":"Itata","region":"XVI"}
+{"nombre":"Coihueco","nombreProvincia":"Punilla","region":"XVI"}
+{"nombre":"Chillán Viejo","nombreProvincia":"Diguillín","region":"XVI"}
+{"nombre":"El Carmen","nombreProvincia":"Diguillín","region":"XVI"}
+{"nombre":"Ninhue","nombreProvincia":"Itata","region":"XVI"}
+{"nombre":"Ñiquén","nombreProvincia":"Punilla","region":"XVI"}
+{"nombre":"Pemuco","nombreProvincia":"Diguillín","region":"XVI"}
+{"nombre":"Pinto","nombreProvincia":"Diguillín","region":"XVI"}
+{"nombre":"Portezuelo","nombreProvincia":"Itata","region":"XVI"}
+{"nombre":"Quillón","nombreProvincia":"Diguillín","region":"XVI"}
+{"nombre":"Quirihue","nombreProvincia":"Itata","region":"XVI"}
+{"nombre":"Ránquil","nombreProvincia":"Itata","region":"XVI"}
+{"nombre":"San Carlos","nombreProvincia":"Punilla","region":"XVI"}
+{"nombre":"San Fabián","nombreProvincia":"Punilla","region":"XVI"}
+{"nombre":"San Ignacio","nombreProvincia":"Diguillín","region":"XVI"}
+{"nombre":"San Nicolás","nombreProvincia":"Punilla","region":"XVI"}
+{"nombre":"Treguaco","nombreProvincia":"Itata","region":"XVI"}
+{"nombre":"Yungay","nombreProvincia":"Diguillín","region":"XVI"}
+{"nombre":"Temuco","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Carahue","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Cunco","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Curarrehue","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Freire","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Galvarino","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Gorbea","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Lautaro","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Loncoche","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Melipeuco","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Nueva Imperial","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Padre Las Casas","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Perquenco","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Pitrufquén","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Pucón","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Saavedra","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Teodoro Schmidt","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Toltén","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Vilcún","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Villarrica","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Cholchol","nombreProvincia":"Cautín","region":"IX"}
+{"nombre":"Angol","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Collipulli","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Curacautín","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Ercilla","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Lonquimay","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Los Sauces","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Lumaco","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Purén","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Renaico","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Traiguén","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Victoria","nombreProvincia":"Malleco","region":"IX"}
+{"nombre":"Valdivia","nombreProvincia":"Valdivia","region":"XIV"}
+{"nombre":"Corral","nombreProvincia":"Valdivia","region":"XIV"}
+{"nombre":"Lanco","nombreProvincia":"Valdivia","region":"XIV"}
+{"nombre":"Los Lagos","nombreProvincia":"Valdivia","region":"XIV"}
+{"nombre":"Máfil","nombreProvincia":"Valdivia","region":"XIV"}
+{"nombre":"Mariquina","nombreProvincia":"Valdivia","region":"XIV"}
+{"nombre":"Paillaco","nombreProvincia":"Valdivia","region":"XIV"}
+{"nombre":"Panguipulli","nombreProvincia":"Valdivia","region":"XIV"}
+{"nombre":"La Unión","nombreProvincia":"Ranco","region":"XIV"}
+{"nombre":"Futrono","nombreProvincia":"Ranco","region":"XIV"}
+{"nombre":"Lago Ranco","nombreProvincia":"Ranco","region":"XIV"}
+{"nombre":"Río Bueno","nombreProvincia":"Ranco","region":"XIV"}
+{"nombre":"Puerto Montt","nombreProvincia":"Llanquihue","region":"X"}
+{"nombre":"Calbuco","nombreProvincia":"Llanquihue","region":"X"}
+{"nombre":"Cochamó","nombreProvincia":"Llanquihue","region":"X"}
+{"nombre":"Fresia","nombreProvincia":"Llanquihue","region":"X"}
+{"nombre":"Frutillar","nombreProvincia":"Llanquihue","region":"X"}
+{"nombre":"Los Muermos","nombreProvincia":"Llanquihue","region":"X"}
+{"nombre":"Llanquihue","nombreProvincia":"Llanquihue","region":"X"}
+{"nombre":"Maullín","nombreProvincia":"Llanquihue","region":"X"}
+{"nombre":"Puerto Varas","nombreProvincia":"Llanquihue","region":"X"}
+{"nombre":"Castro","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Ancud","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Chonchi","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Curaco de Vélez","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Dalcahue","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Puqueldón","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Queilén","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Quellón","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Quemchi","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Quinchao","nombreProvincia":"Chiloé","region":"X"}
+{"nombre":"Osorno","nombreProvincia":"Osorno","region":"X"}
+{"nombre":"Puerto Octay","nombreProvincia":"Osorno","region":"X"}
+{"nombre":"Purranque","nombreProvincia":"Osorno","region":"X"}
+{"nombre":"Puyehue","nombreProvincia":"Osorno","region":"X"}
+{"nombre":"Río Negro","nombreProvincia":"Osorno","region":"X"}
+{"nombre":"San Juan de la Costa","nombreProvincia":"Osorno","region":"X"}
+{"nombre":"San Pablo","nombreProvincia":"Osorno","region":"X"}
+{"nombre":"Chaitén","nombreProvincia":"Palena","region":"X"}
+{"nombre":"Futaleufú","nombreProvincia":"Palena","region":"X"}
+{"nombre":"Hualaihué","nombreProvincia":"Palena","region":"X"}
+{"nombre":"Palena","nombreProvincia":"Palena","region":"X"}
+{"nombre":"Coyhaique","nombreProvincia":"Coyhaique","region":"XI"}
+{"nombre":"Lago Verde","nombreProvincia":"Coyhaique","region":"XI"}
+{"nombre":"Aisén","nombreProvincia":"Aisén","region":"XI"}
+{"nombre":"Cisnes","nombreProvincia":"Aisén","region":"XI"}
+{"nombre":"Guaitecas","nombreProvincia":"Aisén","region":"XI"}
+{"nombre":"Cochrane","nombreProvincia":"Capitán Prat","region":"XI"}
+{"nombre":"O'higgins","nombreProvincia":"Capitán Prat","region":"XI"}
+{"nombre":"Tortel","nombreProvincia":"Capitán Prat","region":"XI"}
+{"nombre":"Chile Chico","nombreProvincia":"General Carrera","region":"XI"}
+{"nombre":"Río Ibáñez","nombreProvincia":"General Carrera","region":"XI"}
+{"nombre":"Punta Arenas","nombreProvincia":"Magallanes","region":"XII"}
+{"nombre":"Laguna Blanca","nombreProvincia":"Magallanes","region":"XII"}
+{"nombre":"Río Verde","nombreProvincia":"Magallanes","region":"XII"}
+{"nombre":"San Gregorio","nombreProvincia":"Magallanes","region":"XII"}
+{"nombre":"Cabo de Hornos (Ex. Navarino)","nombreProvincia":"Antártica Chilena","region":"XII"}
+{"nombre":"Antártica","nombreProvincia":"Antártica Chilena","region":"XII"}
+{"nombre":"Porvenir","nombreProvincia":"Tierra del Fuego","region":"XII"}
+{"nombre":"Primavera","nombreProvincia":"Tierra del Fuego","region":"XII"}
+{"nombre":"Timaukel","nombreProvincia":"Tierra del Fuego","region":"XII"}
+{"nombre":"Natales","nombreProvincia":"Última Esperanza","region":"XII"}
+{"nombre":"Torres del Paine","nombreProvincia":"Última Esperanza","region":"XII"}
+{"nombre":"Santiago","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Cerrillos","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Cerro Navia","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Conchalí","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"El Bosque","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Estación Central","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Huechuraba","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Independencia","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"La Cisterna","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"La Florida","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"La Granja","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"La Pintana","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"La Reina","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Las Condes","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Lo Barnechea","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Lo Espejo","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Lo Prado","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Macul","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Maipú","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Ñuñoa","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Pedro Aguirre Cerda","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Peñalolén","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Providencia","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Pudahuel","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Quilicura","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Quinta Normal","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Recoleta","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Renca","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"San Joaquín","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"San Miguel","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"San Ramón","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Vitacura","nombreProvincia":"Santiago","region":"XIII"}
+{"nombre":"Puente Alto","nombreProvincia":"Cordillera","region":"XIII"}
+{"nombre":"Pirque","nombreProvincia":"Cordillera","region":"XIII"}
+{"nombre":"San José de Maipo","nombreProvincia":"Cordillera","region":"XIII"}
+{"nombre":"Colina","nombreProvincia":"Chacabuco","region":"XIII"}
+{"nombre":"Lampa","nombreProvincia":"Chacabuco","region":"XIII"}
+{"nombre":"Tiltil","nombreProvincia":"Chacabuco","region":"XIII"}
+{"nombre":"San Bernardo","nombreProvincia":"Maipo","region":"XIII"}
+{"nombre":"Buin","nombreProvincia":"Maipo","region":"XIII"}
+{"nombre":"Calera de Tango","nombreProvincia":"Maipo","region":"XIII"}
+{"nombre":"Paine","nombreProvincia":"Maipo","region":"XIII"}
+{"nombre":"Mellipilla","nombreProvincia":"Mellipilla","region":"XIII"}
+{"nombre":"Alhué","nombreProvincia":"Mellipilla","region":"XIII"}
+{"nombre":"Curacaví","nombreProvincia":"Mellipilla","region":"XIII"}
+{"nombre":"María Pinto","nombreProvincia":"Mellipilla","region":"XIII"}
+{"nombre":"San Pedro","nombreProvincia":"Mellipilla","region":"XIII"}
+{"nombre":"Talagante","nombreProvincia":"Talagante","region":"XIII"}
+{"nombre":"El Monte","nombreProvincia":"Talagante","region":"XIII"}
+{"nombre":"Isla de Maipo","nombreProvincia":"Talagante","region":"XIII"}
+{"nombre":"Padre Hurtado","nombreProvincia":"Talagante","region":"XIII"}
+{"nombre":"Peñaflor","nombreProvincia":"Talagante","region":"XIII"}
